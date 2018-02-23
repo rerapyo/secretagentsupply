@@ -117,3 +117,9 @@ nav .flex {
 }
 
 /* footer styles */
+footer {
+  background-color: black;
+  color: white;
+  padding: 5rem 0;
+  margin-top: 4rem;
+}
